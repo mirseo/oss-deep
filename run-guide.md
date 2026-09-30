@@ -1,5 +1,5 @@
-### Usage 흠 내가 컨플릭트라니 컨플릭트라니이ㅣㅣㅣㅣㅣ
+2학년 2학기 팀 과제입니다.
 ```bash
-git clone https://github.com/mirseo/myrepo && uv sync
+git clone https://github.com/mirseo/oss-deep && uv sync
 uv run ./src/myrepo/hello.py
 ```
